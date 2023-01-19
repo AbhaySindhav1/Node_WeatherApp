@@ -1,0 +1,57 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    font-size: 35px;
+    margin: 0px 0px 30px 10px;
+}
+
+#inp{
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 2px;
+    display: block;
+    margin: 10px auto;
+    padding: 7px 15px;
+}
+
+img{
+    width: 500px;
+    /* height: 50px; */
+}
+form{
+    padding: 10px;
+    width: 33vw;
+    /* height: 25vh; */
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: auto;
+    flex-grow: 1;
+    background-color: blanchedalmond;
+
+}
+button{
+    margin: 10px 170px;
+    padding: 5px 10px;
+    background-color: burlywood;
+    cursor: pointer;
+    border: 1px solid brown;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+#footer{
+    margin-top: 100px;
+    text-align: end;
+}
