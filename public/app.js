@@ -95,4 +95,5 @@ app.get("*", (req, res) => {
 
 app.listen(8000, () => {
   console.log("ExpressJS is Listening at PORT : 8000");
+  console.log("server started");
 });
